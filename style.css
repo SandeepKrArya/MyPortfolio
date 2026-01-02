@@ -327,7 +327,7 @@ html {
 
     /* 1. Push content down so it doesn't hide behind the navbar on mobile */
     #home {
-        padding-top: 100px !important;
+        padding-top: 10px !important;
         /* Adjust if needed */
         height: auto !important;
         /* Allow section to grow if content is long */
