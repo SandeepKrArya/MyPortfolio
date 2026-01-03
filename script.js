@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 2. Initialize Typed.js
     new Typed('#typed-text', {
-        strings: ['QA Lead.', 'ISO 8583 Expert.', 'Automation Engineer.'],
+        strings: ['Tech Enthusiast.', 'Quality Engineering Lead.', 'Payment Specialist.', 'Automation Engineer.'],
         typeSpeed: 50, backSpeed: 30, loop: true, backDelay: 2000
     });
 
